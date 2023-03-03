@@ -41,7 +41,7 @@ img {
 /* The entire page as a grid */
 body {
    display:grid;
-   grid-template-columns: 1fr 1fr 1fr 1fr;
+   grid-template-columns: 1fr 1fr 1f 1fr;
 }
 
 /* "slate and pencil tutorial image" spans column 3 fractions */
