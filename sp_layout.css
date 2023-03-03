@@ -23,7 +23,7 @@ html {
 
 body {
    width: 95%;
-   min-width: 640px;
+   min-width: 640p;
    max-width: 960px;
    min-height: 100%;
    margin:auto;
